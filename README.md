@@ -8,7 +8,7 @@ Hola, soy Cristian Alancay. Tengo experiencia en liderazgo. Me enfoco en inspira
 
 * 🌍  I'm based in Argentina ⭐⭐⭐
 * ✉️  You can contact me at [cristianalancay@live.com](mailto:cristianalancay@live.com)
-* ⚡  «Nunca te conformes con cómo eres ahora, supera tus límites» "Goku"
+* ⚡  «Nunca te conformes con cómo eres ahora, supera tus límites» 
 
 ### Skills
 
