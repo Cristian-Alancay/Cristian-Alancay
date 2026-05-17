@@ -21,14 +21,16 @@ Matrículas profesionales: **CPIC · COPIME · CPSH · UTN**.
 
 ---
 
-### Productos en producción
+### En qué trabajo
 
-| Producto | Qué resuelve | Stack |
-|---|---|---|
-| **[Fyn — Alancorr Balance](https://fyn.alancorr.com)** | Asistente financiero familiar conversacional (WhatsApp + web), OCR de comprobantes con visión, presupuestos y metas | Cloudflare Workers · React 19 · Vectorize · OpenAI |
-| **PAD 1451 — Tecpetrol** | Monitor de avance de obra con análisis automático de fotos contra referencia | React · Fastify · Claude Vision |
-| **Lisual Admin** | Panel multi-empresa con permisos granulares para operaciones de campo | React · Supabase · TanStack |
-| **[cristianalancay.com](https://www.cristianalancay.com)** | Sitio personal + comercial bilingüe, CRM propio, captura de leads, automatización por Telegram | Astro 6 · Cloudflare Workers · Hono · D1 |
+Productos privados para clientes B2B y proyectos propios. Algunos ejemplos del tipo de problemas que resuelvo:
+
+- **Monitoreo de obra con visión** — análisis automático de fotos contra estado de referencia, dashboards de avance
+- **Asistentes conversacionales financieros** — WhatsApp + web, OCR de comprobantes, presupuestos por familia
+- **Paneles operativos multi-empresa** — permisos granulares, flujos de campo, auditoría
+- **Sitios institucionales con CRM propio** — captura de leads, automatización por email/Telegram, analítica propia
+
+Casos y demos disponibles bajo NDA — pedímelos por mail.
 
 ---
 
